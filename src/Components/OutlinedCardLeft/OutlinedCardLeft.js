@@ -37,7 +37,7 @@ const card = (
   </React.Fragment>
 );
 
- function OutlinedCardLeft() {
+function OutlinedCardLeft() {
   return (
     <div className="OutlinedCard" >
         <Box sx={{ minWidth: 350 }} >
