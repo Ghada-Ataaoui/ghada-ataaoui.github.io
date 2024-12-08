@@ -1,0 +1,10 @@
+.OutlinedCard{
+   padding: 2rem;
+}
+.portofolio_image{
+   border-radius: 50px;
+   width: 170px;
+}
+.card_content{
+   margin: 20px;
+}
