@@ -5,15 +5,16 @@ import OutlinedCardRight from './Components/OutlinedCardRight/OutlinedCardRight'
 
 function Main() {
   return (
-    <Grid container spacing={2} >
-        <Grid item xs={12} md={6}>
-          <OutlinedCardLeft></OutlinedCardLeft>
-        </Grid>
-        <Grid item xs={12} md={6}>
-          <OutlinedCardRight></OutlinedCardRight>
-        </Grid>
-        
-    </Grid>
+   
+      <Grid container spacing={3} justifyContent="space-between">
+          <Grid item xs={12} md={4} >
+            <OutlinedCardLeft/>
+          </Grid>
+          <Grid item xs={12} md={8} >
+            <OutlinedCardRight/>
+          </Grid>
+          
+      </Grid>
   )
 }
 

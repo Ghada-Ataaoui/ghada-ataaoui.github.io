@@ -10,6 +10,9 @@ const darkTheme = createTheme({
   palette: {
     mode: 'dark',
   },
+  typography: {
+    fontFamily: 'Poppins, sans-serif',
+},
 });
 
 
@@ -17,8 +20,8 @@ function App() {
   return (
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
-      <Container maxWidth="sm">
-        <Main></Main>
+      <Container className='App'>
+        <Main/>
       </Container>
     </ThemeProvider>
   );
