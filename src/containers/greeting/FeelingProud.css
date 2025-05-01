@@ -3,6 +3,24 @@
   animation: eyeb 5s linear infinite;
 }
 
+.profile-pic-div {
+  position: relative;
+  justify-items: center;
+  align-items: center;
+}
+
+.svg-format {
+  position: absolute;
+  z-index: -1;
+}
+
+.picture {
+  transform: translateY(-9px);
+  -ms-transform: translateY(-9px);
+  -moz-transform: translateY(-9px);
+  animation: head 10s infinite;
+}
+
 @keyframes eyeb {
   0% {
     transform: translateY(-10);
