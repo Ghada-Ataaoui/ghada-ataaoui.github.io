@@ -37,6 +37,7 @@
   text-align: center;
   padding-bottom: 10px;
   font-family: "Google Sans Regular";
+  white-space: nowrap;
 }
 
 /* Media Query */

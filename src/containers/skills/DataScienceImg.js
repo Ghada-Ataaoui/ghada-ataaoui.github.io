@@ -5,13 +5,13 @@ export default function DataScienceImg(props) {
   return (
     <svg
       id="fa973782-3a18-4630-a762-87130b613ac3"
-      data-name="Layer 1"
-      xmlns="http://www.w3.org/2000/svg"
+      // data-name="Layer 1"
+      // xmlns="http://www.w3.org/2000/svg"
       width="100%"
       height="100%"
       viewBox="0 0 1120 829.80067"
     >
-      <title></title>
+      <title>Hello</title>
       <ellipse
         cx="975.57906"
         cy="811.05902"

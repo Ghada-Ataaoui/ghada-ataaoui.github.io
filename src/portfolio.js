@@ -14,7 +14,7 @@ const settings = {
     logo_name: "Ghada Ataoui",
     nickname: "",
     full_name: "Ghada Ataoui",
-    subTitle: "Software Developer, Machine Learning Enthusiast 🔥. Always learning.",
+    subTitle: "Full Stack Developer, Machine Learning Enthusiast 🔥. Always learning.",
     resumeLink:
       "https://drive.google.com/file/d/1NQugCN-EtZs3haRtbgFGxgSaF5Xr8SzA/view?usp=drivesdk",
     mail: "ghada.ataoui@supcom.tn",
@@ -36,11 +36,10 @@ const settings = {
         title: "Full Stack Development",
         fileName: "FullStackImg",
         skills: [
-          "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-          "⚡ Building responsive website front end using ReactJS",
-          "⚡ Developing mobile applications using Flutter and Android",
-          "⚡ Creating application backend in Node, Express & Flask",
-          "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+          "⚡ Develop interactive and user-focused front-end interfaces for web applications.",
+          "⚡ Build responsive web front-ends using ReactJS.",
+          "⚡ Create robust back-end services with Node.js, Express, Flask ,Laravel and PHP.",
+          "⚡ Integrate third-party platforms such as Firebase and AWS.",
         ],
         softwareSkills: [
           {
@@ -66,6 +65,20 @@ const settings = {
             },
           },
           {
+            skillName: "Laravel",
+            fontAwesomeClassname: "fa-brands:laravel",
+            style: {
+              color: "#47848F",
+            },
+          },
+          {
+            skillName: "PHP",
+            fontAwesomeClassname: "fa-brands:php",
+            style: {
+              color: "#f89820",
+            },
+          },
+          {
             skillName: "ReactJS",
             fontAwesomeClassname: "simple-icons:react",
             style: {
@@ -79,44 +92,39 @@ const settings = {
               color: "#339933",
             },
           },
+
           {
-            skillName: "ElectronJS",
-            fontAwesomeClassname: "simple-icons:electron",
-            style: {
-              color: "#47848F",
-            },
-          },
-          {
-            skillName: "Python",
-            fontAwesomeClassname: "simple-icons:python",
+            skillName: "Express JS",
+            fontAwesomeClassname: "simple-icons:express",
             style: {
               color: "#3776AB",
             },
           },
+
           {
-            skillName: "Java",
-            fontAwesomeClassname: "devicon-plain:java-wordmark",
+            skillName: "Flask",
+            fontAwesomeClassname: "simple-icons:flask",
             style: {
-              color: "#f89820",
+              color: "#02569B",
             },
           },
-          // {
-          //   skillName: "Flutter",
-          //   fontAwesomeClassname: "simple-icons:flutter",
-          //   style: {
-          //     color: "#02569B",
-          //   },
-          // },
-          // {
-          //   skillName: "Dart",
-          //   fontAwesomeClassname: "simple-icons:dart",
-          //   style: {
-          //     color: "#29B0EE",
-          //   },
-          // },
+          {
+            skillName: "Firebase",
+            fontAwesomeClassname: "simple-icons:firebase",
+            style: {
+              color: "#29B0EE",
+            },
+          },
           {
             skillName: "MySQL",
             fontAwesomeClassname: "simple-icons:mysql",
+            style: {
+              color: "#4479A1",
+            },
+          },
+          {
+            skillName: "React Native",
+            fontAwesomeClassname: "fa-brands:react",
             style: {
               color: "#4479A1",
             },
@@ -138,54 +146,54 @@ const settings = {
         ],
       },
       {
-        title: "Cloud Infra-Architecture",
-        fileName: "CloudInfraImg",
+        title: "Machine Learning Expertise",
+        fileName: "DataScienceImg",
         skills: [
-          "⚡ Experience working on multiple cloud platforms",
-          "⚡ Experience hosting and managing websites",
-          "⚡ Experience with Continuous Integration",
-        ],
+          "⚡ Apply machine learning techniques to solve complex problems with data analysis and model training",
+          "⚡ Leverage deep learning frameworks to build and deploy models for image processing and computer vision",
+          "⚡ Implement algorithms for classification, regression, and anomaly detection using various datasets"
+          ],
         softwareSkills: [
           {
-            skillName: "AWS",
-            fontAwesomeClassname: "simple-icons:amazonaws",
+            skillName: "Python",
+            fontAwesomeClassname: "simple-icons:python",
             style: {
-              color: "#FF9900",
+              color: "#61DAFB",
             },
           },
           {
-            skillName: "Netlify",
-            fontAwesomeClassname: "simple-icons:netlify",
+            skillName: "Tensorflow",
+            fontAwesomeClassname: "simple-icons:tensorflow",
             style: {
-              color: "#38AFBB",
+              color: "#f89820",
             },
           },
           {
-            skillName: "Heroku",
-            fontAwesomeClassname: "simple-icons:heroku",
+            skillName: "Pytorch",
+            fontAwesomeClassname: "simple-icons:pytorch",
             style: {
-              color: "#6863A6",
+              color: "#EE4C2C",
             },
           },
           {
-            skillName: "Firebase",
-            fontAwesomeClassname: "simple-icons:firebase",
+            skillName: "Keras",
+            fontAwesomeClassname: "simple-icons:keras",
             style: {
-              color: "#FFCA28",
+              color: "#D00000",
             },
           },
           {
-            skillName: "PostgreSQL",
-            fontAwesomeClassname: "simple-icons:postgresql",
+            skillName: "Google Colab",
+            fontAwesomeClassname: "simple-icons:googlecolab",
             style: {
-              color: "#336791",
+              color: "#F7B02A",
             },
           },
           {
-            skillName: "MongoDB",
-            fontAwesomeClassname: "simple-icons:mongodb",
+            skillName: "OpenCV",
+            fontAwesomeClassname: "simple-icons:opencv",
             style: {
-              color: "#47A248",
+              color: "#ffffff",
             },
           },
           {
@@ -196,12 +204,27 @@ const settings = {
             },
           },
           {
-            skillName: "GitHub Actions",
-            fontAwesomeClassname: "simple-icons:githubactions",
+            skillName: "Pandas",
+            fontAwesomeClassname: "simple-icons:pandas",
             style: {
-              color: "#5b77ef",
+              color: "#1488C6",
             },
           },
+          {
+            skillName: "Scipy",
+            fontAwesomeClassname: "simple-icons:scipy",
+            style: {
+              color: "#8C2A2A",
+            },
+          },
+          {
+            skillName: "Numpy",
+            fontAwesomeClassname: "simple-icons:numpy",
+            style: {
+              color: "#1E90FF",
+            },
+          },
+
         ],
       },
     ],
