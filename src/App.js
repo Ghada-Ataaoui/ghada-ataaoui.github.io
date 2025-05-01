@@ -4,7 +4,7 @@ import Main from "./containers/Main";
 import { ThemeProvider } from "styled-components";
 import { themes } from "./theme";
 import { GlobalStyles } from "./global";
-import { CursorProvider } from "react-animated-cursor";
+import CursorProvider from "react-animated-cursor";
 import { settings } from "./portfolio";
 import ReactGA from "react-ga";
 
