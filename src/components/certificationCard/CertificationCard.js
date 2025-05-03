@@ -16,8 +16,8 @@ function CertificationCard(props) {
 
   return (
     <Fade bottom duration={2000} distance="20px">
-      <div className="cert-card" {...styles}>
-        <div className="content">
+      <div className="cert-card" {...styles} style={{ width: "200px" }}>
+        <div className="content" >
           <a
             href={certificate.certificate_link}
             target="_blank"
@@ -32,6 +32,8 @@ function CertificationCard(props) {
                 className="logo_img"
                 src={require(`../../assests/images/${certificate.logo_path}`)}
                 alt={certificate.alt_name}
+                style={{width:"150px"
+                }}
               />
             </div>
             {/* <div className="content-details fadeIn-top">

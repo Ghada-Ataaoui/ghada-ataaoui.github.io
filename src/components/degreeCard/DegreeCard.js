@@ -8,9 +8,8 @@ function DegreeCard(props) {
   const theme = props.theme;
 
   const style_img = css({
-    width: "220px",
-    height: "auto",
-    borderRadius: " 50%",
+    width: "250px",
+    borderRadius: " 100%",
     padding: "10px",
     border: `1px solid ${theme.accentColor}`,
     marginRight: "50px",
@@ -75,7 +74,7 @@ function DegreeCard(props) {
             style={{
               maxWidth: "100%",
               maxHeight: "100%",
-              transform: "scale(-50%, -50%)",
+              borderRadius: "100%",
             }}
             src={require(`../../assests/images/${degree.logo_path}`)}
             alt={degree.alt_name}
