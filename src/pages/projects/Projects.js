@@ -25,7 +25,12 @@ function Projects(props) {
         <Fade bottom duration={2000} distance="40px">
           <div className="projects-heading-div">
             <div className="projects-heading-img-div">
-              <ProjectsImg theme={theme} />
+              <img
+                style={{ width: "400px", marginTop: "70px" }}
+                className="project_image"
+                src={require(`../../assests/images/${projectsHeader["avatar_image_path"]}`)}
+                alt="project_image"
+              />
             </div>
             <div className="projects-heading-text-div">
               <h1
@@ -55,7 +60,7 @@ function Projects(props) {
       <a
         {...styles}
         className="general-btn"
-        href="https://github.com/harikanani"
+        href="https://github.com/Ghada-Ataaoui"
       >
         More Projects (Github)
       </a>
