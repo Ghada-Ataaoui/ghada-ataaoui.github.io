@@ -150,9 +150,9 @@ const skills = {
       title: "Machine Learning ",
       picturePath: "Machine Learning.png",
       skills: [
-        "⚡ Apply machine learning techniques to solve complex problems with data analysis and model training",
-        "⚡ Leverage deep learning frameworks to build and deploy models for image processing and computer vision",
-        "⚡ Implement algorithms for classification, regression, and anomaly detection using various datasets",
+        "⚡ Apply machine learning techniques to solve complex problems with data analysis and model training.",
+        "⚡ Leverage deep learning frameworks to build and deploy models for image processing and computer vision.",
+        "⚡ Implement algorithms for classification, regression, and anomaly detection using various datasets.",
       ],
       softwareSkills: [
         {
@@ -272,7 +272,7 @@ const certifications = {
       color_code: "#EF0808",
     },
     {
-      title: "Red Hat OpenShift I : conteneurs & Kubernetes 4.10",
+      title: "Red Hat OpenShift I : Containers & Kubernetes 4.10",
       subtitle: "RedHat Academy",
       logo_path: "redhat-academy.png",
       certificate_link:
@@ -282,7 +282,7 @@ const certifications = {
     },
     {
       title: "Sizing LLM Inference Systems",
-      subtitle: "Nvidea",
+      subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
       // certificate_link:
       //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
@@ -292,7 +292,7 @@ const certifications = {
     },
     {
       title: "Augmenting LLMs Using Retrieval Augmented Generation",
-      subtitle: "Nvidea",
+      subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
       // certificate_link:
       //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
@@ -302,7 +302,7 @@ const certifications = {
     },
     {
       title: "Building RAG Agents with LLMs",
-      subtitle: "Nvidea",
+      subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
       // certificate_link:
       //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
@@ -312,7 +312,7 @@ const certifications = {
     },
     {
       title: "Generative AI Explained",
-      subtitle: "Nvidea",
+      subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
       // certificate_link:
       //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
