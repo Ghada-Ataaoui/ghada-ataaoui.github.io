@@ -452,7 +452,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Python Scripts, and React Project. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Python Scripts, and React Projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
   avatar_image_path: "Projects-pic.png",
 };
 
@@ -464,22 +464,15 @@ const contactPageData = {
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
-    avatar_image_path: "blogs_image.svg",
-  },
 };
 
 const projects = {
   data: [
     {
       id: "0",
-      name: "Cancer-detection-wisconsin-dataset P",
+      name: "Cancer Detection using the Wisconsin Dataset",
       description:
-        "a machine learning model using the K-Nearest Neighbors (KNN) algorithm to detect cancer based on the Wisconsin dataset.  ",
+        "A machine learning model using the K-Nearest Neighbors (KNN) algorithm to detect cancer based on the Wisconsin dataset.",
       languages: [
         {
           name: "Python",
@@ -496,7 +489,7 @@ const projects = {
     },
     {
       id: "1",
-      name: "Virtual-Art-Gallery ",
+      name: "Virtual Art Gallery",
       url: "https://bardo-virtual-gallery.vercel.app/",
       description: "Virtual Art Gallery of Bardo Museum - Tunisia.",
       languages: [
@@ -523,7 +516,7 @@ const projects = {
     },
     {
       id: "2",
-      name: "EEG-Signal-Processing",
+      name: "EEG Signal Processing",
       description:
         "Processing EEG signals from the DEAP dataset to recognize human emotions. The pipeline includes feature extraction, and classification using deep learning and machine learning models.",
       languages: [
