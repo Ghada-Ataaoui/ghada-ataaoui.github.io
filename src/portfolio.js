@@ -423,25 +423,25 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Joy Room: PACTEProject",
-          company: "Orphanage In Monastir",
-          logo_path: "centre-integré.jpg",
-          duration: "March 2022",
-          location: "Monastir Mahdia",
-          description:
-            " Contributed to the establishment of a professional taekwondo room in the orphanage, More details are in the facebook page : https://www.facebook.com/profile.php?id=100091640615701 and the youtube Video https://www.youtube.com/watch?v=ni2QqJis2hA",
-          color: "#FBBD18",
-        },
-        {
-          title: "Memberofthe Forum’s SUP’COM Community",
+          title: "Member of the Forum’s SUP’COM Community",
           company: "SUP’COM",
           company_url: "https://www.supcom.tn/pages/forum",
           logo_path: "sup-com-logo.jpg",
           duration: "Nov 2022",
-          location: "Ariana Tunisia",
+          location: "Ariana, Tunisia",
           description:
             "Contributed to the success of the annual Forum of SUP’COM by organizing activities, engaging with attendees, and enhancing event impact through teamwork and community engagement.",
           color: "#4285F4",
+        },
+        {
+          title: "Joy Room: PACTEProject",
+          company: "Orphanage in Monastir",
+          logo_path: "centre-integré.jpg",
+          duration: "March 2022",
+          location: "Monastir, Mahdia",
+          description:
+            "Contributed to the establishment of a professional taekwondo room in the orphanage, More details are in the facebook page : https://www.facebook.com/profile.php?id=100091640615701 and the youtube Video https://www.youtube.com/watch?v=ni2QqJis2hA",
+          color: "#FBBD18",
         },
       ],
     },
