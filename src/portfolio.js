@@ -518,7 +518,7 @@ const projects = {
       id: "2",
       name: "EEG Signal Processing",
       description:
-        "Processing EEG signals from the DEAP dataset to recognize human emotions. The pipeline includes feature extraction, and classification using deep learning and machine learning models.",
+        "Processing EEG signals from the DEAP dataset to recognize human emotions. The pipeline includes feature extraction, and classification using deep learning & ML models.",
       languages: [
         {
           name: "Python",
