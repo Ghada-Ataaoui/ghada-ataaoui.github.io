@@ -440,7 +440,7 @@ const experience = {
           duration: "March 2022",
           location: "Monastir, Mahdia",
           description:
-            "Contributed to the establishment of a professional taekwondo room in the orphanage, More details are in the facebook page : https://www.facebook.com/profile.php?id=100091640615701 and the youtube Video https://www.youtube.com/watch?v=ni2QqJis2hA",
+            "Contributed to the establishment of a professional taekwondo room in the orphanage, more details are in the facebook page : https://www.facebook.com/profile.php?id=100091640615701, and the YouTube video: https://www.youtube.com/watch?v=ni2QqJis2hA",
           color: "#FBBD18",
         },
       ],
