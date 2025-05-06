@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1NQugCN-EtZs3haRtbgFGxgSaF5Xr8SzA/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1jDT9-bPuuaxHpglD5knPInPnd63VbfX9/view?usp=sharing",
   mail: "ghada.ataoui@supcom.tn",
 };
 
@@ -275,8 +275,6 @@ const certifications = {
       title: "Red Hat OpenShift I : Containers & Kubernetes 4.10",
       subtitle: "RedHat Academy",
       logo_path: "redhat-academy.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
       alt_name: "RedHat academy",
       color_code: "#EF0808",
     },
