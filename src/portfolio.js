@@ -282,8 +282,6 @@ const certifications = {
       title: "Sizing LLM Inference Systems",
       subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
-      // certificate_link:
-      //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
       alt_name: "NVIDIA-Deep-Learning",
       // color_code: "#F6B808",
       color_code: "#7DBA08",
@@ -292,8 +290,6 @@ const certifications = {
       title: "Augmenting LLMs Using Retrieval Augmented Generation",
       subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
-      // certificate_link:
-      //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
       alt_name: "NVIDIA-Deep-Learning",
       // color_code: "#F6B808",
       color_code: "#7DBA08",
@@ -302,8 +298,6 @@ const certifications = {
       title: "Building RAG Agents with LLMs",
       subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
-      // certificate_link:
-      //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
       alt_name: "NVIDIA-Deep-Learning",
       // color_code: "#F6B808",
       color_code: "#7DBA08",
@@ -312,58 +306,10 @@ const certifications = {
       title: "Generative AI Explained",
       subtitle: "NVIDIA",
       logo_path: "NVIDIA-Deep-Learning.png",
-      // certificate_link:
-      //   "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
       alt_name: "NVIDIA-Deep-Learning",
       // color_code: "#F6B808",
       color_code: "#7DBA08",
     },
-    // {
-    //   title: "Cyber Security & Cyber Forensics",
-    //   subtitle: "Workshop at IIT Bombay",
-    //   logo_path: "iit.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
-    //   alt_name: "Workshop",
-    //   color_code: "#2AAFED",
-    // },
-    // {
-    //   title: "MLH Local Hack Day: Build",
-    //   subtitle: "Major League Hacking",
-    //   logo_path: "mlh-logo.svg",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
-    //   alt_name: "Google",
-    //   color_code: "#fe0037",
-    // },
-    // {
-    //   title: "Hack20",
-    //   subtitle: "Flutter International Hackathon",
-    //   logo_path: "flutter.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing",
-    //   alt_name: "Flutter International Hackathon",
-    //   color_code: "#2AAFED",
-    // },
-    // {
-    //   title: "Postman Student Expert",
-    //   subtitle: "Postman",
-    //   logo_path: "postman.png",
-    //   certificate_link:
-    //     "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
-    //   alt_name: "Postman",
-    //   // color_code: "#f36c3d",
-    //   color_code: "#fffbf3",
-    // },
-    // color_code: "#8C151599",
-    // color_code: "#7A7A7A",
-    // color_code: "#0C9D5899",
-    // color_code: "#C5E2EE",
-    // color_code: "#ffc475",
-    // color_code: "#g",
-    // color_code: "#ffbfae",
-    // color_code: "#fffbf3",
-    // color_code: "#b190b0",
   ],
 };
 
@@ -410,7 +356,6 @@ const experience = {
           description: ` Led the frontend architecture of a revenue management website with React.js, collaborating with cross-functional
  teams and integrating emerging technologies.
             `,
-          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#0071C5",
         },
       ],
